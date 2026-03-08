@@ -1,0 +1,1 @@
+I used Navigator.push() with MaterialPageRoute to navigate between screens. This approach allows passing data to the Add/Edit screen and returning results back to the Expense List screen, which is simple, clear, and works well for small to medium apps like this. It also enables reusing the same AddExpenseScreen for both adding and editing items.
